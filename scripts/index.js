@@ -503,3 +503,9 @@ x = setInterval(function() {
   
 }, second);
 
+window.setTimeout(function(){
+
+  // Move to a new location or you can do something else
+  window.location.href = "https://wawandaem.github.io/happy-birthday/";
+
+}, 25000);
